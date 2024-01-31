@@ -1,0 +1,21 @@
+.p_colonne_gauche {
+  background-color: rgba(212, 227, 235, 0.936);
+  padding-bottom: 5px;
+}
+.p_colonne_droite {
+  background-color: #c4c6bf;
+  padding-bottom: 1px;
+}
+#phone {
+  font-weight: normal;
+}
+#mail {
+  font-weight: normal;
+}
+#localisation {
+  font-weight: normal;
+}
+#textProfil {
+  font-weight: normal;
+  text-align: justify;
+}
